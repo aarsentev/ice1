@@ -1,7 +1,10 @@
 
 package ca.sheridancollege.week2.softwarefundamentals;
 
-//Assignment 1 by Aleksandr Arsentev
+//Assignment 1 by 
+//Name: Aleksandr Arsentev
+//Student number: 991636298
+
 public class Card 
 {
     private String suit;// hearts, diamonds, spades and clubs
