@@ -12,5 +12,7 @@ public class CardDealer
         nineClubs.setSuit("Diamonds");
         Card tenClubs = new Card("Clubs", 10);
         System.out.println(tenClubs.getValue() + " " + tenClubs.getSuit());
+        Card twoDiamonds = new Card("Diamonds", 2);
+        System.out.println(twoDiamonds.getValue() + " " + twoDiamonds.getSuit());
     }
 }
