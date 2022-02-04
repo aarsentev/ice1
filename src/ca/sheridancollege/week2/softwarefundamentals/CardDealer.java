@@ -8,8 +8,8 @@ public class CardDealer
 {
     public static void main(String[] args)
     {
-        Card nineClubs = new Card("Clbs", 9);
-        nineClubs.setSuit("diamonds");
-        Card tenClubs = new Card("Clbs", 10);
+        Card nineClubs = new Card("Clubs", 9);
+        nineClubs.setSuit("Diamonds");
+        Card tenClubs = new Card("Clubs", 10);
     }
 }
